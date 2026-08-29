@@ -1,6 +1,6 @@
 package com.practice.hellospring.repository;
 
-import com.practice.hellospring.controller.domain.Member;
+import com.practice.hellospring.domain.Member;
 
 import java.util.List;
 import java.util.Optional;
